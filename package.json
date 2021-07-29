@@ -1,0 +1,20 @@
+{
+  "name": "final-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./server/index.js",
+  "scripts": {
+    "start": "./node_modules/forever/bin/forever start ./server/index.js",
+    "stop": "./node_modules/forever/bin/forever stop ./server/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=0.6"
+  },
+  "dependencies": {
+    "express": "^4.13.2",
+    "express-handlebars": "^3.0.1",
+    "forever": "^3.0.4"
+  }
+}
