@@ -15,4 +15,4 @@ I have met the following requirements for this project:
 -There is a link that you can click and leads to outside webpages (LinkedIn, Yelp, email, etc.)
 -You are allowed to add other features not listed above to your website as long as they are functional and serve some purpose in your website.
 -You should use at least HTML/CSS and JavaScript in your project.
-![image](https://user-images.githubusercontent.com/88124428/127430294-54f36bf6-2e29-4617-9103-99172d971b0c.png)
+
