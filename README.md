@@ -1,6 +1,6 @@
 Utilized HTML, CSS, and JavaScript for this web dev project. 
 This website aims to motivate K-12 students to pursue higher education and provide educational resources 
-such as tutoring (links to Khan Academy videos) and career exploration within the fields of science, technology, engineering, and math (STEM). 
+such as tutoring (links to Khan Academy videos) and career exploration within the fields of Science, Technology, Engineering, and Math (STEM). 
 I have met the following requirements for this project:
 
 -The webpages should be presentable as a whole; the interface should be user friendly (text should be easy to read).
